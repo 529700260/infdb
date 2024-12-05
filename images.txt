@@ -1,7 +1,5 @@
-nginx
-#支持私库
+
 influxdb:2.4
 chronograf:1.10
 
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
