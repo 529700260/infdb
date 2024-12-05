@@ -1,5 +1,5 @@
 
-influxdb:2.4
+influxdb:2.7
 chronograf:1.10
 
 
