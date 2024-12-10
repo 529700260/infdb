@@ -1,4 +1,4 @@
-redis:redis
+redis:latest
 zookeeper:latest
 eclipse-mosquitto:2
 
