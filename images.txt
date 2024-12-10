@@ -1,4 +1,4 @@
 redis:6.0.6-alpine3.12
-zookeeper:latest
+zookeeper:3.8.4
 eclipse-mosquitto:2
 
