@@ -1,4 +1,4 @@
-redis:latest
+redis:6.0.6-alpine3.12
 zookeeper:latest
 eclipse-mosquitto:2
 
