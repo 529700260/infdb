@@ -1,6 +1,6 @@
-#redis:6.0.6-alpine3.12
+platform=linux/arm64 redis:7.26
 #zookeeper:3.8.4
 #ym529700260/zookeeper3.6.3:latest
 #bitnami/redis:latest
 #bitnami/zookeeper:latest
-ossrs/srs
+#ossrs/srs
