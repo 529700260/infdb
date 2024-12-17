@@ -3,4 +3,5 @@
 #ym529700260/zookeeper3.6.3:latest
 #bitnami/redis:latest
 #bitnami/zookeeper:latest
---platform=linux/arm64 ossrs/srs
+#--platform=linux/arm64 ossrs/srs
+node:20-alpine
