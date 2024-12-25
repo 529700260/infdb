@@ -4,5 +4,5 @@
 #bitnami/redis:latest
 #bitnami/zookeeper:latest
 #--platform=linux/arm64 ossrs/srs
-node:20-alpine
-nginx:stable-alpine3.17
+--platform=linux/arm64 node:20-alpine
+#nginx:stable-alpine3.17
