@@ -8,5 +8,6 @@
 #--platform=linux/arm64 ubuntu
 #nginx:stable-alpine3.17
 # tdengine/tdengine:3.3.2.0
-steedos/steedos-community:2.7
+# steedos/steedos-community:2.7
+openjdk:23
 
