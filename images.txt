@@ -10,5 +10,6 @@
 # tdengine/tdengine:3.3.2.0
 # steedos/steedos-community:2.7
 # openjdk:23
-ollama/ollama
+#ollama/ollama
+mysql:8.0
 
