@@ -11,5 +11,5 @@
 # steedos/steedos-community:2.7
 # openjdk:23
 #ollama/ollama
-bitnami/mysql:8.4
-
+#bitnami/mysql:8.4
+emqx/emqx:5.1.6
